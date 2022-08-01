@@ -65,7 +65,29 @@ function Projects() {
             />
           </Col>
 
- 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={emotion}
+              isBlog={false}
+              title="Offers Target"
+              description="OffersTarget is an enterprise class performance marketing platform to manage your affiliate business with ease.
+
+              Improve your business conversions with real time smart insights, powered with AI backed feature and advance anti-fraud system. "
+              demoLink="https://offerstarget.com/"
+              
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={suicide}
+              isBlog={false}
+              title="HP Protrain"
+              description="HP ProTrain, an interactive application is putting the power of learning into the hands of HP promoters. This real-time training platform streamlines and centralizes all training materials into the mobile device, making learning convenient, rewarding and trackable."
+              demoLink="https://play.google.com/store/apps/details?id=com.pmg.hpprotrain&hl=en_IN&gl=US"
+            />
+          </Col>
+
+        
 
 
         </Row>

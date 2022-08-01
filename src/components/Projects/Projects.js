@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Vending Machine"
               description="A vending machine selling donut.User can deposit ether whenever they want to have donuts .Also the events are emitted according to the scenario coming and the owner of the machine can restock the machine whenever required."
-              ghLink="https://github.com/soumyajit4419/Chatify"
+              ghLink="https://github.com/amanbora856/VendingMachine"
               
             />
           </Col>
@@ -38,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="Locker System"
               description="A Basic Locker system for depositing and withdrawing the amount as and when required also it emits event accoring to the events approaching."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="https://github.com/amanbora856/LockerSystem"
               
             />
           </Col>

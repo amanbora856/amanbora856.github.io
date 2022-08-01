@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
+import leaf from "../../Assets/leaf.jpg";
 import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
@@ -25,8 +25,8 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Locker System"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              title="Vending Machine"
+              description="A vending machine selling donut.User can deposit ether whenever they want to have donuts .Also the events are emitted according to the scenario coming and the owner of the machine can restock the machine whenever required."
               ghLink="https://github.com/soumyajit4419/Chatify"
               
             />
@@ -36,8 +36,8 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              title="Locker System"
+              description="A Basic Locker system for depositing and withdrawing the amount as and when required also it emits event accoring to the events approaching."
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               
             />
@@ -47,9 +47,9 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              title="Lottery Contract"
+              description=" A basic lottery contract with the ability to select the winner out of the participating players and transferring the ether to the winner's account."
+              ghLink="https://github.com/amanbora856/lotterycontract"
                             
             />
           </Col>
@@ -58,9 +58,9 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
+              title="Portfolio"
+              description="The followig is my portfolio which I created using different techstack .It showcase my talents and the works that I have done until now. "
+              ghLink="https://github.com/amanbora856/amanbora856.github.io"
               
             />
           </Col>

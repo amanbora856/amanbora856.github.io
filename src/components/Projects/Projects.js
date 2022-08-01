@@ -59,7 +59,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Portfolio"
-              description="The followig is my portfolio which I created using different techstack .It showcase my talents and the works that I have done until now. "
+              description="The following is my portfolio which I created using different techstack .It showcase my talents and the works that I have done until now. "
               ghLink="https://github.com/amanbora856/amanbora856.github.io"
               
             />

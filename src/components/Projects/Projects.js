@@ -8,6 +8,7 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import staking from "../../Assets/Projects/staking.png";
 
 function Projects() {
   return (
@@ -73,7 +74,7 @@ function Projects() {
               description="OffersTarget is an enterprise class performance marketing platform to manage your affiliate business with ease.
 
               Improve your business conversions with real time smart insights, powered with AI backed feature and advance anti-fraud system. "
-              demoLink="https://offerstarget.com/"
+              ghLink="https://offerstarget.com/"
               
             />
           </Col>
@@ -83,9 +84,21 @@ function Projects() {
               isBlog={false}
               title="HP Protrain"
               description="HP ProTrain, an interactive application is putting the power of learning into the hands of HP promoters. This real-time training platform streamlines and centralizes all training materials into the mobile device, making learning convenient, rewarding and trackable."
-              demoLink="https://play.google.com/store/apps/details?id=com.pmg.hpprotrain&hl=en_IN&gl=US"
+              ghLink="https://play.google.com/store/apps/details?id=com.pmg.hpprotrain&hl=en_IN&gl=US"
             />
           </Col>
+
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={staking}
+              isBlog={false}
+              title="Crypto Staking"
+              description="User can stake there ether giving the time duration for which the ether will be staked and after the time duration completes user will be rewarded with ether in there wallets."
+              ghLink="https://github.com/amanbora856/staking_app_"
+            />
+          </Col>
+          
 
         
 

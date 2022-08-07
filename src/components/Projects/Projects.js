@@ -94,8 +94,7 @@ function Projects() {
               imgPath={staking}
               isBlog={false}
               title="Crypto Staking"
-              description="User can stake there ether giving the time duration for which the ether will be staked and after the time duration completes user will be rewarded with ether in there wallets.
-              Note-In development phase"
+              description="Crypto users stake there crypto coin giving the time duration for which the coin will be staked and after the time duration completes user will be rewarded with ether in there wallets.Note:In development phase"
               ghLink="https://github.com/amanbora856/staking_app_"
             />
           </Col>

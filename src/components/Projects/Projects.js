@@ -9,6 +9,7 @@ import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import staking from "../../Assets/Projects/staking.png";
+import wallet from "../../Assets/Projects/wallet.png";
 
 function Projects() {
   return (
@@ -22,6 +23,21 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={wallet}
+              isBlog={false}
+              title="MultiSignature Wallet"
+              description="The goal of this project was to learn how to connect backend frontend along with the testnet server.
+              TechStack=React.js,Truffle,Solidity,Metamask"
+              ghLink="https://github.com/amanbora856/Multi-sig-wallet"
+                            
+            />
+          </Col>
+
+
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
@@ -66,7 +82,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+       {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
@@ -86,8 +102,7 @@ function Projects() {
               description="HP ProTrain, an interactive application is putting the power of learning into the hands of HP promoters. This real-time training platform streamlines and centralizes all training materials into the mobile device, making learning convenient, rewarding and trackable."
               ghLink="https://play.google.com/store/apps/details?id=com.pmg.hpprotrain&hl=en_IN&gl=US"
             />
-          </Col>
-
+          </Col> */}
 
           <Col md={4} className="project-card">
             <ProjectCard

@@ -43,7 +43,8 @@ function Projects() {
               imgPath={ERC721}
               isBlog={false}
               title="ERC721 "
-              description="An ERC721 NFT compatible project with the feature of minting a new nft ,along with frontend and metamask integration.User can come and mint there nft as and when required."
+              description="An ERC721 NFT compatible project with the feature of minting a new nft ,along with frontend and metamask integration.User can come and mint there nft as and when required   .
+              TechStack=Hardhat,Solidity,Metamask,PINATA."
               ghLink="https://github.com/amanbora856/ERC721"
             />
           </Col>

@@ -10,7 +10,7 @@ import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import staking from "../../Assets/Projects/staking.png";
 import wallet from "../../Assets/Projects/wallet.png";
-import ERC20 from "../../Assets/Projects/ER20.png";
+import ERC20 from "../../Assets/Projects/ERC20.png";
 import ERC721 from "../../Assets/Projects/ERC721.png";
 
 function Projects() {

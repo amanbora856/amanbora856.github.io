@@ -54,7 +54,7 @@ function Projects() {
               imgPath={ERC20}
               isBlog={false}
               title="ERC20"
-              description="An ERC20 compatible project which I integrated with frontend and metamask and user can trade there nft to a particular address as and when required."
+              description="An ERC20 compatible project which  I integrated with frontend and metamask and user can trade there nft to a particular address as and when required."
               ghLink="https://github.com/amanbora856/ERC20"
             />
           </Col>

@@ -10,6 +10,8 @@ import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import staking from "../../Assets/Projects/staking.png";
 import wallet from "../../Assets/Projects/wallet.png";
+import ERC20 from "../../Assets/Projects/ER20.png";
+import ERC721 from "../../Assets/Projects/ERC721.png";
 
 function Projects() {
   return (
@@ -36,6 +38,26 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ERC721}
+              isBlog={false}
+              title="ERC721 "
+              description="An ERC721 NFT compatible project with the feature of minting a new nft ,along with frontend and metamask integration.User can come and mint there nft as and when required."
+              ghLink="https://github.com/amanbora856/ERC721"
+            />
+          </Col>
+
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ERC20}
+              isBlog={false}
+              title="ERC20"
+              description="An ERC20 compatible project which I integrated with frontend and metamask and user can trade there nft to a particular address as and when required."
+              ghLink="https://github.com/amanbora856/ERC20"
+            />
+          </Col>
 
 
           <Col md={4} className="project-card">
@@ -113,7 +135,9 @@ function Projects() {
               ghLink="https://github.com/amanbora856/staking_app_"
             />
           </Col>
+
           
+
 
         
 

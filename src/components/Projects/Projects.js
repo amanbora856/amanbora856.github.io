@@ -12,7 +12,7 @@ import staking from "../../Assets/Projects/staking.png";
 import wallet from "../../Assets/Projects/wallet.png";
 import ERC20 from "../../Assets/Projects/ERC20.png";
 import ERC721 from "../../Assets/Projects/ERC721.png";
-import library from "../../Assets/Projects/ERC721.png";
+import library from "../../Assets/Projects/library.png";
 
 function Projects() {
   return (

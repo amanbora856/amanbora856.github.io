@@ -67,7 +67,7 @@ function Projects() {
               imgPath={library}
               isBlog={false}
               title="Library Management System"
-              description="The goal of this project was to solve the problem of mutable ledger .Now no changes can be done in the library catalogue,we can implement this project in the voting system,Saving land documents also.
+              description="The goal of this project was to solve the problem of mutable ledger .Now no changes can be done in the library catalogue,we can implement this project in the voting system.
               TechStack=React.js,Hardhat,Solidity,Metamask,Alchemy"
               ghLink="https://github.com/amanbora856/library_ledger_management_system"
                             

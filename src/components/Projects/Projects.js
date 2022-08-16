@@ -12,6 +12,7 @@ import staking from "../../Assets/Projects/staking.png";
 import wallet from "../../Assets/Projects/wallet.png";
 import ERC20 from "../../Assets/Projects/ERC20.png";
 import ERC721 from "../../Assets/Projects/ERC721.png";
+import library from "../../Assets/Projects/ERC721.png";
 
 function Projects() {
   return (
@@ -57,6 +58,19 @@ function Projects() {
               title="ERC20"
               description="An ERC20 compatible project which  I integrated with frontend and metamask and user can trade there nft to a particular address as and when required."
               ghLink="https://github.com/amanbora856/ERC20"
+            />
+          </Col>
+
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={library}
+              isBlog={false}
+              title="Library Management System"
+              description="The goal of this project was to solve the problem of mutable ledger .Now no changes can be done in the library catalogue,we can implement this project in the voting system,Saving land documents also.
+              TechStack=React.js,Hardhat,Solidity,Metamask,Alchemy"
+              ghLink="https://github.com/amanbora856/library_ledger_management_system"
+                            
             />
           </Col>
 

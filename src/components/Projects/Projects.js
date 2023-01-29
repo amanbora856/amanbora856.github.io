@@ -125,6 +125,17 @@ function Projects() {
             />
           </Col> */}
 
+            <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={leaf}
+              isBlog={false}
+              title="Portfolio"
+              description="The following is my portfolio which I created using different techstack .It showcase my talents and the works that I have done until now. "
+              ghLink="https://github.com/amanbora856/amanbora856.github.io"
+              
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bitsOfCode}
@@ -147,16 +158,7 @@ function Projects() {
             />
           </Col> */}
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={leaf}
-              isBlog={false}
-              title="Portfolio"
-              description="The following is my portfolio which I created using different techstack .It showcase my talents and the works that I have done until now. "
-              ghLink="https://github.com/amanbora856/amanbora856.github.io"
-              
-            />
-          </Col>
+          
 
         {/* <Col md={4} className="project-card">
             <ProjectCard

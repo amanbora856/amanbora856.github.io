@@ -178,7 +178,7 @@ function Projects() {
               description="HP ProTrain, an interactive application is putting the power of learning into the hands of HP promoters. This real-time training platform streamlines and centralizes all training materials into the mobile device, making learning convenient, rewarding and trackable."
               ghLink="https://play.google.com/store/apps/details?id=com.pmg.hpprotrain&hl=en_IN&gl=US"
             />
-          </Col> 
+          </Col > 
 
           {/* <Col md={4} className="project-card">
             <ProjectCard

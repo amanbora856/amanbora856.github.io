@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import leaf from "../../Assets/leaf.jpg";
 import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
+import editor from "../../Assets/Projects/metaverse.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
@@ -13,6 +13,8 @@ import wallet from "../../Assets/Projects/wallet.png";
 import ERC20 from "../../Assets/Projects/ERC20.png";
 import ERC721 from "../../Assets/Projects/ERC721.png";
 import library from "../../Assets/Projects/library.png";
+import bidding from "../../Assets/Projects/bidding.png";
+import edtech from "../../Assets/Projects/edtech.png";
 
 function Projects() {
   return (
@@ -29,6 +31,16 @@ function Projects() {
 
         <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="Metaverse"
+              description="A futuristic project with a vision of creating prototype as per the buisness requirement built with Unity.It supports features like buying selling of NFT across multiple chains."
+              //ghLink="https://github.com/amanbora856/ERC20"
+            />
+          </Col>
+
+        {/* <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={wallet}
               isBlog={false}
               title="MultiSignature Wallet"
@@ -37,7 +49,34 @@ function Projects() {
               ghLink="https://github.com/amanbora856/Multi-sig-wallet"
                             
             />
+          </Col> */}
+
+
+            <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bidding}
+              isBlog={false}
+              title="Dreams Redeveloped "
+              description="Ideated and delivered a transparent Bidding System to our client (Dreams Redeveloped) where multiple big Architects will come on board and submit there bids for reconstruction of a Society."
+              //ghLink="https://github.com/amanbora856/ERC721"
+            />
           </Col>
+
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={edtech}
+              isBlog={false}
+              title="EDQODE"
+              description="Ideated and worked on the ground level doing surveys with students ,teachers for finding the
+               problems faced by these people and how we can solve this by technologies."
+              //ghLink="https://github.com/amanbora856/ERC721"
+            />
+          </Col>
+
+          
+
+          
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -75,7 +114,7 @@ function Projects() {
           </Col>
 
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
@@ -84,7 +123,7 @@ function Projects() {
               ghLink="https://github.com/amanbora856/VendingMachine"
               
             />
-          </Col>
+          </Col> */}
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -97,7 +136,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
               isBlog={false}
@@ -106,7 +145,7 @@ function Projects() {
               ghLink="https://github.com/amanbora856/lotterycontract"
                             
             />
-          </Col>
+          </Col> */}
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -119,7 +158,7 @@ function Projects() {
             />
           </Col>
 
-       {/* <Col md={4} className="project-card">
+        {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
@@ -130,7 +169,7 @@ function Projects() {
               ghLink="https://offerstarget.com/"
               
             />
-          </Col>
+          </Col> */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={suicide}
@@ -139,9 +178,9 @@ function Projects() {
               description="HP ProTrain, an interactive application is putting the power of learning into the hands of HP promoters. This real-time training platform streamlines and centralizes all training materials into the mobile device, making learning convenient, rewarding and trackable."
               ghLink="https://play.google.com/store/apps/details?id=com.pmg.hpprotrain&hl=en_IN&gl=US"
             />
-          </Col> */}
+          </Col> 
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={staking}
               isBlog={false}
@@ -149,7 +188,7 @@ function Projects() {
               description="Crypto users stake there crypto coin giving the time duration for which the coin will be staked and after the time duration completes user will be rewarded with ether in there wallets.Note:In development phase"
               ghLink="https://github.com/amanbora856/staking_app_"
             />
-          </Col>
+          </Col> */}
 
           
 

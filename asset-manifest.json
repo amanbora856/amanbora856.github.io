@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/aman_bora_portfolio/static/css/main.9aa39c04.css",
+    "main.js": "/aman_bora_portfolio/static/js/main.bfb62a81.js",
+    "static/css/962.6e95e527.chunk.css": "/aman_bora_portfolio/static/css/962.6e95e527.chunk.css",
+    "static/js/962.fa2030c4.chunk.js": "/aman_bora_portfolio/static/js/962.fa2030c4.chunk.js",
+    "static/css/990.c6a7ee28.chunk.css": "/aman_bora_portfolio/static/css/990.c6a7ee28.chunk.css",
+    "static/js/990.da33e222.chunk.js": "/aman_bora_portfolio/static/js/990.da33e222.chunk.js",
+    "static/media/edtech-min.jpg": "/aman_bora_portfolio/static/media/edtech-min.77ce610d49a84ebbc097.jpg",
+    "static/media/nft-min.jpg": "/aman_bora_portfolio/static/media/nft-min.680bd3da3f6100cc24cf.jpg",
+    "static/media/Montserrat-Regular.ttf": "/aman_bora_portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/cisLogo.webp": "/aman_bora_portfolio/static/media/cisLogo.5479ccf75ab57925c841.webp",
+    "static/media/Agustina.woff": "/aman_bora_portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/RTU.jpg": "/aman_bora_portfolio/static/media/RTU.61c0102ee000510aa55e.jpg",
+    "static/media/manOnTable.svg": "/aman_bora_portfolio/static/media/manOnTable.19dd61230c7efed52b4a5817ec991161.svg",
+    "static/media/contactMailDark.svg": "/aman_bora_portfolio/static/media/contactMailDark.691166414bcceac6adef2955808d67de.svg",
+    "static/media/developerActivity.svg": "/aman_bora_portfolio/static/media/developerActivity.7b82c31954858fd0dfc43420aa9f2298.svg",
+    "static/media/pre.gif": "/aman_bora_portfolio/static/media/pre.836b8d57b8bbd048e9ff.gif",
+    "static/media/AiWorkshop.jpg": "/aman_bora_portfolio/static/media/AiWorkshop.af4fc1a91920d2eb895e.jpg",
+    "static/media/rlbs.png": "/aman_bora_portfolio/static/media/rlbs.21e6ce35020776c68a47.png",
+    "static/media/CBD.jpg": "/aman_bora_portfolio/static/media/CBD.2e8691aea3b16f086cd6.jpg",
+    "static/media/skill.svg": "/aman_bora_portfolio/static/media/skill.152a19ac888380531434dc85cf30648d.svg",
+    "index.html": "/aman_bora_portfolio/index.html",
+    "main.9aa39c04.css.map": "/aman_bora_portfolio/static/css/main.9aa39c04.css.map",
+    "main.bfb62a81.js.map": "/aman_bora_portfolio/static/js/main.bfb62a81.js.map",
+    "962.6e95e527.chunk.css.map": "/aman_bora_portfolio/static/css/962.6e95e527.chunk.css.map",
+    "962.fa2030c4.chunk.js.map": "/aman_bora_portfolio/static/js/962.fa2030c4.chunk.js.map",
+    "990.c6a7ee28.chunk.css.map": "/aman_bora_portfolio/static/css/990.c6a7ee28.chunk.css.map",
+    "990.da33e222.chunk.js.map": "/aman_bora_portfolio/static/js/990.da33e222.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aa39c04.css",
+    "static/js/main.bfb62a81.js"
+  ]
+}

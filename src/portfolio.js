@@ -334,7 +334,7 @@ const achievementSection = {
     },
     {
       title: "Machine Learning and AI workshop",
-      subtitle: "Participated on the Ai workshop that was hosted by the IIT Delhi on March 2019",
+      subtitle: "Participated on the AI workshop that was hosted by the IIT Delhi on March 2019",
       image: require("./assets/images/AiWorkshop.jpg"),
       footerLink: [
         {

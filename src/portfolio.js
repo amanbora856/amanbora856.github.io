@@ -252,7 +252,7 @@ const bigProjects = {
       projectName: "Headless HUB",
       date: "July 2023 - Present",
       projectDesc:
-        "Leading a team in transitioning from Monolith to microservices architecture for improved scalability. Developing design patterns for smooth project progression and collaborating on a robust cloud infrastructure.",
+        "Worked with a team in transitioning from Monolith to microservices architecture for improved scalability. Developing design patterns for smooth project progression and collaborating on a robust cloud infrastructure.",
       footerLink: [
         //  you can add extra buttons here.
         {
@@ -263,8 +263,8 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/oetLogo.png"),
-      projectName: "OET Applications and Data Migration",
-      date: "October 2023 - May 2024",
+      projectName: "OET Operation Streamline and Data Migration",
+      date: "March 2023 - May 2024",
       projectDesc:
         "Heading data migration between applications using the strangler approach for a seamless shift from monolithic to microservices. Innovating migration patterns to boost data transfer efficiency.",
       footerLink: [
@@ -276,15 +276,15 @@ const bigProjects = {
       ],
     },
 
-    {
-      image: require("./assets/images/edtech-min.jpg"),
-      projectName: "Ed-Tech",
-      date: "April 2023 - June2023",
-      projectDesc: "I worked with the development team to create a PaaS solution for rural education districts, focusing on backend development to enhance accessibility and streamline processes.",
-      footerLink: [
-        //  you can add extra buttons here.
-      ],
-    },
+    // {
+    //   image: require("./assets/images/edtech-min.jpg"),
+    //   projectName: "Ed-Tech",
+    //   date: "April 2023 - June2023",
+    //   projectDesc: "I worked with the development team to create a PaaS solution for rural education districts, focusing on backend development to enhance accessibility and streamline processes.",
+    //   footerLink: [
+    //     //  you can add extra buttons here.
+    //   ],
+    // },
     {
       image: require("./assets/images/nft-min.jpg"),
       projectName: "NFT Marketplace",
@@ -300,7 +300,7 @@ const bigProjects = {
       projectName: "HP Training Application",
       date: "May 2020 - August 2021",
       projectDesc:
-        "I worked closely with the development team to build APIs that met the specific needs and requirements of the project. My responsibilities included collaborating on the authorization process to ensure secure user access and implementing scripts for efficiently uploading product data. Additionally, I conducted thorough regression testing to identify and address any functionality issues, ensuring optimal performance and enhancing overall user satisfaction.",
+        "I performed extensive multi-language testing across different languages to ensure consistent performance and proper localization. Following Agile methodologies, I contributed to smooth development, timely delivery, and iterative improvements throughout the project lifecycle. Additionally, I developed and maintained automation testing scripts to streamline quality assurance processes, ensuring efficient and effective testing procedures.",
       footerLink: [
         //  you can add extra buttons here.
         {
@@ -334,7 +334,7 @@ const achievementSection = {
     },
     {
       title: "Machine Learning and AI workshop",
-      subtitle: "Participated on the Ai workshop that was hosted by the IIT Roorkee on March 2019",
+      subtitle: "Participated on the Ai workshop that was hosted by the IIT Delhi on March 2019",
       image: require("./assets/images/AiWorkshop.jpg"),
       footerLink: [
         {

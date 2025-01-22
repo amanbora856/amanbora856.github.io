@@ -176,11 +176,9 @@ const workExperiences = {
       background: false, // set it true to use image background as card background
       descBullets: [
         "Led and developed multiple Web3 and Web2 solutions, leveraging blockchain and traditional technologies to meet project objectives.",
-        "Collaborated with management and product teams to define and implement comprehensive crypto strategies and roadmaps, aligning with business goals.",
-        "Mentored and trained 10+ junior developers on the NestJS framework and Node.js, improving team proficiency and productivity.",
-        "Optimized Google API calls, implementing efficient request strategies that resulted in a 92% reduction in billing costs while maintaining performance and functionality.",
-        "Achieved a 75% reduction in Azure egress data transfer costs through strategic optimizations, significantly lowering operational expenses.",
-        "Led a cross-functional team of developers to deliver a comprehensive software solution, improving system efficiency by 30%, utilizing Agile methodologies and technologies such as TypeScript, Solidity, and MongoDB.",
+        "Collaborate with clients to define requirements, provide technical solutions, and drive successful deal closures.",
+        "Worked on developing the client’s private package by integrating new libraries, which were later published on their npm registry.",
+        "Streamlined workflows by automating processes with VM-scheduled scripts, boosting development focus.",
         "Demonstrated adaptability and a quick learning curve, consistently delivering high-quality code that met or exceeded client expectations.",
       ],
       footerLink: [

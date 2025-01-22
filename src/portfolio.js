@@ -198,10 +198,11 @@ const workExperiences = {
       desc: "Successfully developed an NFT marketplace for creating and selling NFTs, with integrated crypto payments using Blockchain technology.",
       background: false, // set it true to use image background as card background
       descBullets: [
-        "At Qodequay, I developed innovative features using Web3 and Web2 technologies to create scalable applications.",
-        "I leveraged my expertise in Object - Oriented Programming(OOP), JavaScript, ES6, and TypeScript to write maintainable code and build dynamic, responsive applications.",
-        "I designed user - friendly, authenticated apps and worked on developing REST APIs, adopting new technologies to efficiently solve complex problems.",
-        "I utilized real - time communication protocols like socket.io and MQTT to create interactive applications with live data and messaging features.",
+        " Developed an NFT marketplace, including writing smart contracts for NFT minting, transfer, and wallet-to-wallet transactions.",
+        "Contributed to the initial architecture and application development of an ed-tech product.",
+        "Designed and implemented blockchain-based solutions using Hyperledger Fabric, writing contracts in Go.",
+        "Mentored junior developers by conducting active sessions to enhance their understanding of the application and provide continuous support throughout the development process.",
+        "Actively participated in code reviews to ensure code quality, maintainability, and adherence to best practices.",
       ],
       footerLink: [
         {
@@ -218,15 +219,15 @@ const workExperiences = {
       desc: "Collaborated on API development, authorization, product upload scripts, and regression testing for optimal performance.",
       background: false, // set it true to use image background as card background
       descBullets: [
-        "Collaborated with the development team to build APIs that met the project’s requirements.",
-        "Worked on the authorization process to ensure secure user access.",
-        "Developed scripts for uploading product data efficiently.",
+        "Collaborated with the development team to design and implement new APIs for the platform.",
+        "Conducted thorough testing across 14 different languages to ensure accurate rendering and functionality.",
+        "Participated in a bug bounty competition, identifying the highest number of bugs, contributing to a more efficient and bug-free application for launch.",
         "Conducted thorough regression testing to identify and resolve functionality issues.",
-        "Ensured optimal performance and improved user satisfaction through testing and issue resolution.",
+        "Worked closely with the development team to manage and adapt to frequent product launches for the client, HP.",
       ],
       footerLink: [
         {
-          name: "Wyse Nybble",
+          name: "Offers Target",
           //url: "https://www.qodequay.com/"
         },
       ],

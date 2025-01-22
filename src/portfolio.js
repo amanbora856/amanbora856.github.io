@@ -11,7 +11,7 @@ const greeting = {
   username: "Aman Bora",
   title: "Hi all, I'm Aman",
   subTitle:
-    "A results-driven Software Developer with 3+ years of experience in delivering efficient software solutions and optimizing infrastructure costs. Expertise in Node.js, TypeScript, Go, DevOps, and cloud technologies. Adept at working with cross-functional teams, mentoring junior developers, and deploying scalable Web3 and Web2 applications. Proven success in reducing billing costs by 92% through strategic API optimizations and enhancing system performance by 30% using agile methodologies. Strong focus on automating processes and improving operational efficiency.",
+    "A results-driven Software Developer with 3+ years of experience in delivering efficient software solutions and optimizing infrastructure costs. Expertise in Node.js, TypeScript, Go, DevOps, and cloud technologies. Adept at working with cross-functional teams, mentoring junior developers, and deploying scalable Web3 and Web2 applications. Proven success in reducing billing costs by 92% through strategic API optimizations and enhancing system performance using agile methodologies. Strong focus on automating processes and improving operational efficiency.",
   resumeLink: "https://docs.google.com/document/d/1IYI83e8_o7wWPAemuaewSqBIDtStwapJeolsr46WGL0/export?format=pdf", // Set to empty to hide the button
   resumeName: "Aman's Resume.pdf",
   displayGreeting: true, // Set false to hide this section, defaults to true

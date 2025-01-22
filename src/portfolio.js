@@ -212,7 +212,7 @@ const workExperiences = {
     },
     {
       role: "Backend Developer",
-      company: "Wise Nybble Technology Private Limited",
+      company: "Offers Target",
       companylogo: require("./assets/images/wizbytes.jpg"),
       date: "May 2020 - August 2021",
       desc: "Collaborated on API development, authorization, product upload scripts, and regression testing for optimal performance.",

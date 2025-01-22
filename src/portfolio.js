@@ -341,10 +341,6 @@ const achievementSection = {
           name: "Certification",
           url: "",
         },
-        {
-          name: "Participation",
-          url: "",
-        },
       ],
     },
   ],

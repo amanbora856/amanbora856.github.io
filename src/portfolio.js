@@ -264,7 +264,7 @@ const bigProjects = {
     {
       image: require("./assets/images/oetLogo.png"),
       projectName: "OET Operation Streamline and Data Migration",
-      date: "March 2023 - May 2024",
+      date: "March 2024 - May 2024",
       projectDesc:
         "Heading data migration between applications using the strangler approach for a seamless shift from monolithic to microservices. Innovating migration patterns to boost data transfer efficiency.",
       footerLink: [
